@@ -1,2 +1,7 @@
-# AI-for-Customer-Success
-AI prompts and workflows for Customer Success and Account Management.
+
+ChatGPT prompts
+Email prompts
+QBR prompts
+Renewal prompts
+Meeting summaries
+Customer research
